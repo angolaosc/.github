@@ -1,7 +1,7 @@
 # Angola Open-source Community
 
 Other languages available:
-- [Portuguese/Português](pt.md)
+- [Portuguese/Português](profile/pt.md)
 
 ## Introduction
 
