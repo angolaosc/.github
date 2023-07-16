@@ -1,6 +1,7 @@
 # Angola Open-source Community
 
-![Angola Open-source Foundation Logo](logo.png)
+Other languages available:
+- [Portuguese/Português](pt.md)
 
 ## Introduction
 
