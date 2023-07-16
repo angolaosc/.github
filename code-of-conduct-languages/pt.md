@@ -1,7 +1,4 @@
-# Código de Conduta da Comunidade Angola Open-source
-
-Outros idiomas disponíveis:
-- [Inglês/English](code-of-conduct-languages/en.md)
+# Código de Conduta da Comunidade Angola Open-source v.0
 
 ## Nosso Compromisso
 
