@@ -1,1 +1,1 @@
-# .github
+# Angola Open-source Community
