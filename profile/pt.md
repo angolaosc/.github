@@ -1,7 +1,5 @@
 # Angola Open-source Community
 
-![Angola Open-source Foundation Logo](logo.png)
-
 ## Introdução
 
 A Angola Open-source Community tem como objetivo capacitar programadores angolanos para contribuir com projetos de software de código aberto e fortalecer a comunidade de código aberto em Angola.
