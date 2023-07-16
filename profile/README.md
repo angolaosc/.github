@@ -28,6 +28,7 @@ If you want to get in touch with us, you can use:
 ## Code of Conduct(CoC)
 
 Our Code of Conduct can be found here [AOSC Code of Conduct](https://github.com/angolaosc/.github/blob/main/CODE_OF_CONDUCT.md)
+
 ## License
 
 AOSC is licensed under the [Apache License](https://github.com/strimzi/.github/blob/main/LICENSE), Version 2.0
