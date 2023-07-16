@@ -1,4 +1,4 @@
-# Angola Open-source Community Code of Conduct
+# Angola Open-source Community Code of Conduct v.0
 
 Other languages available:
 - [Portuguese/Português](code-of-conduct-languages/pt.md)
