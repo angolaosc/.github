@@ -26,6 +26,11 @@ By actively empowering Angolan developers to participate in this ecosystem, we a
 If you want to get in touch with us, you can use:
 
 * [GitHub Discussions](https://github.com/orgs/angolaosc/discussions)
+* [Discord](https://discord.gg/tuUDNdRzvz)
+* [Facebook](https://www.facebook.com/profile.php?id=100064051982631&mibextid=ZbWKwL)
+* [LinkedIn](https://www.linkedin.com/company/angola-open-source-community)
+* [Telegram](https://t.me/angolasc)
+* [Youtube](https://www.youtube.com/@angolaosc)
 
 ## Code of Conduct(CoC)
 
