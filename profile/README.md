@@ -3,7 +3,7 @@
 [![AOSC](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)](https://github.com/angolaosc)
 
 Other languages available:
-- [Portuguese/Português](profile/pt.md)
+- [Portuguese/Português](pt.md)
 
 ## Introduction
 
